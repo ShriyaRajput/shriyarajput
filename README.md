@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://github.com/shriyarajput/shriyarajput/blob/main/banner.png" alt="Banner" width="100%">
+  <img src="https://github.com/shriyarajput/shriyarajput/blob/main/github-header-banner.png" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Shriya Thakur</h1>
