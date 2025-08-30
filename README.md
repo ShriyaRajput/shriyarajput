@@ -1,6 +1,7 @@
+<!--
 ## Hi there 👋
 
-<!--
+
 **ShriyaRajput/shriyarajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,11 +18,12 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github.com/shriyarajput/shriyarajput/blob/main/github-header-banner.png" alt="Banner" width="100%">
 </p>
-
+<!--
 <h1 align="center">Hi 👋, I'm Shriya Thakur</h1>
 <p align="center">
    Data Analyst | Web Developer | AI/ML Enthusiast 
 </p>
+-->
 <p align="center">
   💡 Passionate about turning data into insights & building impactful web apps
 </p>
