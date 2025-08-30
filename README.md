@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 | Project | Description | Link |
 |---------|-------------|------|
-| Adherence Tracker | Track employee adherence & performance | [GitHub](https://github.com/YOUR_USERNAME/Adherence-Tracker) |
+| Adherence Tracker | Track employee adherence & performance | [GitHub](https://github.com/ShriyaRajput/Adherence-Tracker) |
 | Career Predictor | Predict career paths based on skills & interests | [GitHub](https://github.com/ShriyaRajput/Career-Predictor) |
 | Portfolio Website | Personal portfolio & projects showcase | [GitHub]((https://github.com/ShriyaRajput/ShriyaThakur.github.io)) |
 
